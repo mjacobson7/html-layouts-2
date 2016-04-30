@@ -1,0 +1,75 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+* {
+  box-sizing: border-box;
+}
+.greybackground {
+  height: 100%;
+  width: 100%;
+  background-color: grey;
+}
+.textboxtop {
+  background-color: white;
+  width: 80%;
+  position: absolute;
+  left: 10%;
+  margin: 30px 0px;
+  padding:15px;
+}
+.redbox {
+  background-color: red;
+  padding:15px;
+  display: inline-block;
+  margin-left: 20px;
+  color: white;
+  width: 10%;
+  text-align: center;
+
+}
+.bluebox {
+  background-color: blue;
+  padding:15px;
+  display: inline-block;
+  margin-left: 15px;
+  color: white;
+  width: 10%;
+  text-align: center;
+}
+.textarea {
+  background-color: white;
+  width: 80%;
+  position: absolute;
+  left: 10%;
+  top: 35%;
+  bottom: 5%;
+}
+div div img {
+  width: 90%;
+  height: 70%;
+  margin: 5%;
+
+}
+.textbottom {
+  background-color: white;
+  margin: -5% 5%;
+}
+footer {
+  background-color: #333333;
+  height: 100px;
+  color: white;
+  font-size: 28px;
+
+}
+.apple {
+display: inline-block;
+margin-left: 70%;
+padding-top: 2.5%;
+}
+.google {
+display: inline-block;
+margin-right: 10%;
+padding-left: 5%
+}
