@@ -1,0 +1,59 @@
+body, html {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+header {
+  background-color: #262626;
+  height: 150px;
+  color: white;
+  font-size: 28px;
+}
+.apple {
+  display: inline-block;
+  margin: 50px;
+}
+.google {
+  display: inline-block;
+  margin: 50px;
+}
+.firstcolumn {
+  background-color: white;
+  width: 50%;
+}
+div h1 {
+  font-size: 60px;
+  margin-left: 10%;
+}
+.firstcolumn p {
+  display: inline-block;
+  float: left;
+  margin-left: 5%;
+}
+div img {
+  float: left;
+  height: auto;
+  width: 20%;
+  margin-left: 10%;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+}
+.secondcolumn p {
+  margin-top: 10%;
+  margin-left: 53%;
+  height: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 55%;
+  right: 10%;
+}
+.secondcolumn div p {
+  margin-top: 21%;
+}
+footer {
+  background-color: #262626;
+  height: 100px;
+  margin-top: 100%;
+
+}
